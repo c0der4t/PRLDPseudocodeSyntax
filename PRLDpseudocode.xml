@@ -35,5 +35,6 @@
 	   <KeyWord name="="/>
 	   <KeyWord name="true" />
 	   <KeyWord name="false" />
+	   <KeyWord name="length" func=yes><Overload retVal="int" descr="Returns the count of chars in a give string. This is a method of the String class"></Overload></KeyWord>
    </AutoComplete>
 </NotepadPlus>
