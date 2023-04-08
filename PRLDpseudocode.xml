@@ -15,6 +15,7 @@
 	   <KeyWord name="AND" />
 	   <KeyWord name="OR" />
 	   <KeyWord name="NOT" />
+	   <KeyWord name="do" />
 	   <KeyWord name="while" />
 	   <KeyWord name="endWhile" />
 	   <KeyWord name="switch" />
