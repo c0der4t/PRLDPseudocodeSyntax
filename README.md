@@ -1,2 +1,26 @@
-# PRLDPseudocodeSyntax
-Provides syntax highlighting and auto completion suggestions in Notepad++ for pseudocode defined in Varisty College PRLD module.
+# PRLD Notepad++ Pseudocode Syntax
+
+This repo houses 2 XML files that add syntax highlighting and auto completetion to Notepad++ for the Pseudocode syntax taught in the Varisty College PRLD course.
+
+This current syntax dictionary is suffecient for Year 1, Semester 1 requirements.
+
+## Install Instructions
+* Clone this repo or [download it as a zip](https://github.com/c0der4t/PRLDPseudocodeSyntax/archive/refs/heads/main.zip)
+* Extract the files if zipped
+* Run `installPRLDSyntax.bat` as Administrator
+* Go through the prompts
+
+## Using PRLD Notepad++ Pseudocode Syntax
+* Open any file or create a new file in Notepad++
+* Click on `Language` > `PRLDpseudocode`
+* Start writing your pseudocode
+
+
+## Updates
+
+If you find any issues with the highlighting or auto completetion, please create an issue or pull request.
+
+#### Additional Info
+
+[![License](https://img.shields.io/badge/license-FREEWARE-lightgrey.svg)](https://blog.ekronds.co.za/software-licenses/#:~:text=our%20software%20page-,MIT%20License,-Any%20software%20licensed)
+[![Github](https://ekronds.co.za/img/readmeicns/github-white.png)](https://github.com/c0der4t)
