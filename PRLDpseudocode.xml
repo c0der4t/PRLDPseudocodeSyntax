@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<NotepadPlus>
+   <AutoComplete language="PRLDpseudocode">
+       <Environment ignoreCase="no" startFunc="(" stopFunc=")" paramSeparator="," terminal=";" additionalWordChar = "."/>
+	   <KeyWord name="start" />
+	   <KeyWord name="stop" />
+	   <KeyWord name="return" />
+	   <KeyWord name="Declarations" />
+	   <KeyWord name="input" />
+	   <KeyWord name="output" />
+	   <KeyWord name="if" />
+	   <KeyWord name="then" />
+	   <KeyWord name="else" />
+	   <KeyWord name="endIf" />
+	   <KeyWord name="AND" />
+	   <KeyWord name="OR" />
+	   <KeyWord name="NOT" />
+	   <KeyWord name="while" />
+	   <KeyWord name="endWhile" />
+	   <KeyWord name="switch" />
+	   <KeyWord name="case" />
+	   <KeyWord name="endSwitch" />
+	   <KeyWord name="endCase" />
+	   <KeyWord name="for" />
+	   <KeyWord name="to" />
+	   <KeyWord name="step" />
+	   <KeyWord name="endFor" />
+	   <KeyWord name="string" />
+	   <KeyWord name="num" />
+	   <KeyWord name="bool"/>
+	   <KeyWord name="!"/>
+	   <KeyWord name="!="/>
+	   <KeyWord name="=="/>
+	   <KeyWord name="="/>
+	   <KeyWord name="true" />
+	   <KeyWord name="false" />
+   </AutoComplete>
+</NotepadPlus>
