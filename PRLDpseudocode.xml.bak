@@ -37,6 +37,5 @@
 	   <KeyWord name="false" />
 	   <KeyWord name="length" func=yes><Overload retVal="int" descr="Returns the count of chars in a give string. This is a method of the String class"></Overload></KeyWord>
 	   <KeyWord name="ToUpperCase" func=yes><Overload retVal="" descr="Converts each char in a string to it's uppercase variant"></Overload></KeyWord>
-	   <KeyWord name="equals" func=yes><Overload retVal="bool" descr="Used to compare the values of two strings. Returns true if they are equal"></Overload></KeyWord>
    </AutoComplete>
 </NotepadPlus>

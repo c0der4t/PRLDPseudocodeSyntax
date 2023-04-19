@@ -18,14 +18,14 @@
             <Keywords name="Folders in code1, open">start</Keywords>
             <Keywords name="Folders in code1, middle"></Keywords>
             <Keywords name="Folders in code1, close">stop return</Keywords>
-            <Keywords name="Folders in code2, open">if if While do</Keywords>
+            <Keywords name="Folders in code2, open">if if While do for</Keywords>
             <Keywords name="Folders in code2, middle">then else &quot;else if&quot;</Keywords>
-            <Keywords name="Folders in code2, close">endIf endIf endWhile while</Keywords>
+            <Keywords name="Folders in code2, close">endIf endIf endWhile while endFor</Keywords>
             <Keywords name="Folders in comment, open"></Keywords>
             <Keywords name="Folders in comment, middle"></Keywords>
             <Keywords name="Folders in comment, close"></Keywords>
             <Keywords name="Keywords1">output&#x000D;&#x000A;input&#x000D;&#x000A;\t&#x000D;&#x000A;\n</Keywords>
-            <Keywords name="Keywords2">string&#x000D;&#x000A;num&#x000D;&#x000A;bool&#x000D;&#x000A;Declarations</Keywords>
+            <Keywords name="Keywords2">string&#x000D;&#x000A;num&#x000D;&#x000A;bool&#x000D;&#x000A;Declarations&#x000D;&#x000A;string[]&#x000D;&#x000A;num[]&#x000D;&#x000A;bool[]</Keywords>
             <Keywords name="Keywords3"></Keywords>
             <Keywords name="Keywords4"></Keywords>
             <Keywords name="Keywords5"></Keywords>
