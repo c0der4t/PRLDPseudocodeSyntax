@@ -4,7 +4,6 @@ This repo houses 2 XML files that add syntax highlighting and auto completetion 
 
 ## ⚠ Important Notice
 - The current syntax dictionary is suffecient for Year 1, Semester 1 requirements.
-- The current highlighting is only valid when you use Notepad++ in **DARK MODE**
 
 ## Install Instructions
 * Clone this repo or [download it as a zip](https://github.com/c0der4t/PRLDPseudocodeSyntax/archive/refs/heads/main.zip)
